@@ -14,3 +14,5 @@
 - [show - 라이브러리에서 특정 요소 불러오기](Dart/show%20-%20라이브러리에서%20특정%20요소%20불러오기.md)
 ### Flutter
 - [provider](Flutter/provider.md)
+### Python
+- [input](Python/input.md)
