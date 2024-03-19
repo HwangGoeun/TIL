@@ -3,7 +3,7 @@
 
 <br>
 
-### 자료구조, 알고리즘
+### Algorithm, Data Structure
 - [시간복잡도](자료구조,%20알고리즘/시간복잡도.md)
 
 ### Dart
