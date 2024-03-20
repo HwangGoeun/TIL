@@ -4,7 +4,7 @@
 <br>
 
 ### Algorithm, Data Structure
-- [시간복잡도](자료구조,%20알고리즘/시간복잡도.md)
+- [시간복잡도](Algorithm,%20Data%20Structure/시간복잡도.md)
 
 ### Dart
 - [_(underscore) - Private 변수 만들기](Dart/_(underscore)%20-%20Private%20변수를%20만드는%20법.md)
@@ -17,6 +17,8 @@
 - [show - 라이브러리에서 특정 요소 불러오기](Dart/show%20-%20라이브러리에서%20특정%20요소%20불러오기.md)
 ### Flutter
 - [provider](Flutter/provider.md)
+### Markdown
+- [마크다운 문법](Markdown/마크다운%20문법.md)
 ### Python
 - [산술연산자](Python/산술연산자.md)
 - [아스키 코드 사용하기](Python/아스키%20코드%20사용하기.md)
