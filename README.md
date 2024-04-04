@@ -18,6 +18,7 @@
 ### Flutter
 - [provider](Flutter/provider.md)
 ### Git-GitHub
+- [레포지토리 이름 규칙](Git-GitHub/레포지토리%20이름%20규칙.md)
 - [Git, GitHub 기본 사용법](Git-GitHub/Git,%20GitHub%20기본%20사용법.md)
 ### Markdown
 - [마크다운 문법](Markdown/마크다운%20문법.md)
