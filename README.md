@@ -16,6 +16,7 @@
 - [Dart/part, part of, library - 라이브러리를 하나로 모으기](Dart/part,%20part%20of,%20library%20-%20라이브러리를%20하나로%20모으기.md)
 - [show - 라이브러리에서 특정 요소 불러오기](Dart/show%20-%20라이브러리에서%20특정%20요소%20불러오기.md)
 ### Flutter
+- [command not found: flutter](Flutter/command-not-found:-flutter.md)
 - [provider](Flutter/provider.md)
 ### Git-GitHub
 - [레포지토리 이름 규칙](Git-GitHub/레포지토리%20이름%20규칙.md)
